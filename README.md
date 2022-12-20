@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshuang87
-- 👀 I’m interested in programming language such as Java, HTML, JavScript and any else.
+- 👀 I’m interested in programming language such as Java, Python, JavScript and any else.
 - 🌱 I’m currently learning IT course at university college.
 
 
